@@ -1,0 +1,7 @@
+{
+	"db_conf": {
+    "db_name": "db_whisper",
+    "user_name": "root",
+    "password": "aidai2001"
+  }
+}
